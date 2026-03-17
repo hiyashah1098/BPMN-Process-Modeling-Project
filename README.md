@@ -1,1 +1,2 @@
 # BPMN-Process-Modeling-Project
+This repository features an end-to-end catering order fulfillment workflow modeled with BPMN 2.0 standards in SAP Signavio. The diagrams map complex business logic across multiple roles, incorporating conditional gateways for inventory and scheduling, parallel flows for event execution, and a fully decomposed parent-child subprocess for food preparation. This project highlights applied skills in business process analysis, systems thinking, and strict adherence to enterprise modeling conventions and structured message flows.
